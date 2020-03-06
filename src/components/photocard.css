@@ -1,5 +1,6 @@
 .card-size {
     margin: 0 auto;
-    width: 50%;
+    width: 75%;
+    height: 100vh;
     text-align: center;
 }
